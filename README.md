@@ -4,5 +4,6 @@ Working on *Energy System Modeling* at the Energy Economics Group ([EEG](https:/
 
 :raised_hand: Contact me on [LinkedIn](https://www.linkedin.com/in/sebastian-zwickl-bernhard-15163914a)
 
-
 :muscle: Collaborators: Hans Auer, [antoniagolab](https://github.com/antoniagolab), [tperger](https://github.com/tperger)
+
+Recent publication: [Demystifying natural gas distribution grid decommissioning: An open-source approach to local deep decarbonization of urban neighborhoods](https://doi.org/10.1016/j.energy.2021.121805) in *Energy* (open access)
