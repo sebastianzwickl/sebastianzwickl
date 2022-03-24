@@ -1,6 +1,6 @@
 Working on *Energy System Modeling* at the Energy Economics Group ([EEG](https://github.com/tuw-eeg)), Vienna University of Technology. 
 
-:mag_right: If you're looking for general information online, please check out my [Google Scholar](https://scholar.google.com/citations?user=qknMCCYAAAAJ&hl=de&oi=ao).
+:mag_right: If you're looking for general information online, please check [Google Scholar](https://scholar.google.com/citations?user=qknMCCYAAAAJ&hl=de&oi=ao).
 
 :raised_hand: Contact me on [LinkedIn](https://www.linkedin.com/in/sebastian-zwickl-bernhard-15163914a)
 
