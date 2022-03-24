@@ -6,4 +6,10 @@ Working on *Energy System Modeling* at the Energy Economics Group ([EEG](https:/
 
 :muscle: Collaborators: Hans Auer, [antoniagolab](https://github.com/antoniagolab), [tperger](https://github.com/tperger)
 
-Recent publication: [Demystifying natural gas distribution grid decommissioning: An open-source approach to local deep decarbonization of urban neighborhoods](https://doi.org/10.1016/j.energy.2021.121805) in *Energy* (open access)
+Recent publications (selection): 
+
+[![DOI:10.1016/j.enbuild.2022.112013](http://img.shields.io/badge/DOI-10.1016/j.apenergy.2020.116166-5F7464.svg)](https://doi.org/10.1016/j.apenergy.2020.116166)
+
+[![DOI:10.1016/j.enbuild.2022.112013](http://img.shields.io/badge/DOI-10.1016/j.energy.2021.121805-5F7464.svg)](https://doi.org/10.1016/j.energy.2021.121805)
+
+[![DOI:10.1016/j.enbuild.2022.112013](http://img.shields.io/badge/DOI-10.1016/j.enbuild.2022.112013-5F7464.svg)](https://doi.org/10.1016/j.enbuild.2022.112013)
