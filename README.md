@@ -14,4 +14,4 @@ Recent publications (selection):
 
 [![DOI:10.1016/j.enbuild.2022.112013](http://img.shields.io/badge/DOI-10.1016/j.enbuild.2022.112013-5F7464.svg)](https://doi.org/10.1016/j.enbuild.2022.112013)
 
-[![DOI:10.1016/j.segan.2022.100775](http://img.shields.io/badge/DOI-10.1016/j.segan.2022.100775.svg)](https://doi.org/10.1016/j.segan.2022.100775)
+[![DOI:10.1016/j.segan.2022.100775](http://img.shields.io/badge/DOI-10.1016/j.segan.2022.100775-5F7464.svg)](https://doi.org/10.1016/j.segan.2022.100775)
